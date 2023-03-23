@@ -6,5 +6,5 @@ Código para download de vídeos
     * pip install pywin32
     * pip install pyinstaller
 
-2. Após instalação, rodar o seguinte comando:
+2. Para transformar em executável, rodar no prompt o seguinte comando:
     * pyinstaller --onefile "nome do arquivo.py"
